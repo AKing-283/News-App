@@ -1,0 +1,21 @@
+.navbar-brand{
+   font-size:60px;
+   margin-left:790px;
+   display: flex;
+   padding: 10px 20px
+   justify-content: center;
+
+}
+
+body {
+    background-color: #7393B3;
+    color: white;
+}
+#button-addon2{
+    color: white;
+    border-color: white;
+}
+
+.card-body{
+    color: #36454F;
+}
