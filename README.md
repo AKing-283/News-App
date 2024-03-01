@@ -12,8 +12,8 @@ Frontend: HTML, CSS
 External APIs: Used to fetch news articles (News-API)
 
 # Installation
-Clone the repository:
-git clone <repository-url>
+In Pycharm I have done this usiung .venv i.e virtual environment
+in this we have created various folder in which we have main files.
 
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
